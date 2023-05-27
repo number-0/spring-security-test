@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/java/workspace-shl/grpc-java-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/java/workspace-shl/spring-framework" value="PREVIEW" />
+        <entry key="$USER_HOME$/java/workspace-shl/spring-framework-3.2.6.RELEASE" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
